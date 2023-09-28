@@ -4,7 +4,7 @@
 3) сайт до изменений
    ![](https://github.com/YanaBerf/hw_web1/blob/main/wild.png)
 4) сайт после изменений
-   ![](https://github.com/)
+   ![](https://github.com/YanaBerf/hw_web1/blob/main/wild2.png)
 5) прототип сайта вайлдберис
-   ![](https://github.com/)
+   ![](https://github.com/YanaBerf/hw_web1/blob/main/prototip.png)
 
